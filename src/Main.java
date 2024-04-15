@@ -15,5 +15,11 @@ public class Main {
         System.out.println();
 
         System.out.println("Task2");
+        System.out.print(arrOne[0] + ", " + arrOne[1] + ", " + arrOne[2]);
+        System.out.println();
+        System.out.print(arrTwo[0] + ", " + arrTwo[1] + ", " + arrTwo[2]);
+        System.out.println();
+        System.out.print(arrThree[0] + ", " + arrThree[1] + ", " + arrThree[2]);
+
     }
 }
