@@ -28,6 +28,15 @@ public class Main {
         System.out.print(arrTwo[2] + ", " + arrTwo[1] + ", " + arrTwo[0]);
         System.out.println();
         System.out.print(arrThree[2] + ", " + arrThree[1] + ", " + arrThree[0]);
+        System.out.println();
+
+        System.out.println("Task4");
+        for (int i = 0; i < 3; i++) {
+            if (arrOne[i] % 2 != 0) {
+                arrOne[i] = arrOne[i] + 1;
+            }
+            System.out.print(arrOne[i] + " ");
+        }
 
     }
 }
