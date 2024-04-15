@@ -20,6 +20,14 @@ public class Main {
         System.out.print(arrTwo[0] + ", " + arrTwo[1] + ", " + arrTwo[2]);
         System.out.println();
         System.out.print(arrThree[0] + ", " + arrThree[1] + ", " + arrThree[2]);
+        System.out.println();
+
+        System.out.println("Task3");
+        System.out.print(arrOne[2] + ", " + arrOne[1] + ", " + arrOne[0]);
+        System.out.println();
+        System.out.print(arrTwo[2] + ", " + arrTwo[1] + ", " + arrTwo[0]);
+        System.out.println();
+        System.out.print(arrThree[2] + ", " + arrThree[1] + ", " + arrThree[0]);
 
     }
 }
